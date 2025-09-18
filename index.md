@@ -74,3 +74,10 @@ layout: default
 
 　　**最后的小提醒**：网络只是工具，别让它完全占据了你的视线。喀麦隆的美，更多在那些需要你抬起头、断开连接才能真切感受到的瞬间——比如克里比海滩的日落，或是林贝黑沙滩与火山的对峙。准备好你的网络，然后就放心地去探索吧。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cameroon eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/cameroon-data-plans)
